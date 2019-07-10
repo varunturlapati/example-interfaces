@@ -1,8 +1,8 @@
 package main
 
 import (
+	"example-interfaces/iface-demo"
 	"fmt"
-	"example-interface/iface-demo"
 )
 
 func main() {
